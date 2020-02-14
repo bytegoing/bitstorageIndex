@@ -1,0 +1,19 @@
+html {
+    color: black;
+}
+body {
+    background-color: white;
+    margin-top: 3%;
+}
+p, a {
+    color: black;
+}
+.container {
+    margin: 0 auto;
+    max-width: 1280px;
+    width: 60%;
+}
+  
+.beian, .footer {
+    text-align: center;
+}
